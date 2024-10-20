@@ -5,7 +5,7 @@ I'm a software engineer, involved (perhaps too much) with JavaScript, Typescript
 🚀 Building cool stuff for the web—from AI-powered crawlers to immersive VR experiences. 
 
 ### 📪 Say hi on:
-- [LinkedIn](https://www.linkedin.com/in/mateus-fontoura-701433213/)
+- [LinkedIn](https://www.linkedin.com/in/mateus-fontoura-701433213/){:target="_blank"}
 
 
 
