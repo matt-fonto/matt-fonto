@@ -1,13 +1,8 @@
 ## Hey there, I'm Mateus! 👋
 
-I'm a software engineer, involved (perhaps too much) with JavaScript, Typescript, Next.js, and React ecosystem.
+I'm a software engineer involved (perhaps too much) with JavaScript, TypeScript, Next.js, and React ecosystems.
 
-🚀 Building cool stuff for the web—from AI-powered crawlers to immersive VR experiences. 
+🚀 Building cool stuff for the web, from immersive VR experiences and Learning Management Systems to AI crawlers.
 
 ### 📪 Say hi on:
 - [LinkedIn](https://www.linkedin.com/in/mateus-fontoura-701433213/)
-
-
-
-
-
